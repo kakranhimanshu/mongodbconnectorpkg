@@ -10,5 +10,3 @@ testpaths = [
 [tool.mypy]
 mypy_path = "src"
 ignore_missing_imports = true
-
-//this is also related toi setup.cfg
